@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"vpc","Source":"git::https://github.com/kserge2001/terraform-week7.git","Dir":".terraform/modules/vpc"}]}
